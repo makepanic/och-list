@@ -86,17 +86,13 @@
 			var view,
 					output, 
 					item,
-					rendered = [],
-					free = '',
-					multi = '',
-					time = '',
-					down = '';
+					rendered = [];
 			for(var i=0,n=this.results.length; i < n ; i++){
 				item = this.results[i];
 				view = {
 					url: item.url,
 					name: item.name,
-					free: item.free ? 'free' : 'required',
+					free: item.free ? 'free' : (item.free === undefined?undefined:'required'),
 					down: item.down,
 					multi: item.multi,
 					timed: item.timed
