@@ -3,17 +3,13 @@
     "url": "//rapidshare.com/",
     "name": "RapidShare",
     "free": true,
-    "down": "14KB/s",
-    "multi": false,
-    "timed": ""
+    "multi": false
 },
 {
     "url": "//www.putlocker.com",
     "name": "PutLocker",
     "free": true,
-    "down": "+1MB/s",
-    "multi": false,
-    "timed": ""
+    "down": "+1MB/s"
 },
 {
     "url": "//www.zippyshare.com/",
