@@ -3,6 +3,8 @@
 ###What
 och-list is a minimal one-click-hoster list. You find the code in the `gh-pages` branch.
 
+[live list via github-pages](http://makepanic.github.com/och-list/)
+
 ###Adding new hoster
 open an issue and give the following information of the hosters u want to see on the list:
 
