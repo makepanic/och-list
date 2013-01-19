@@ -22,5 +22,10 @@
 {
     "url": "//uploaded.net",
     "name": "uploaded"
+},
+{
+    "url":"//www.sockshare.com",
+    "name":"SockShare",
+    "free":true
 }
 ]
