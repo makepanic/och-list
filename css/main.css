@@ -236,9 +236,14 @@ button,.user-input input{
     right:0;
     left:0;
     color:#666;
+    font-size: 12px;
 }
 .footer a{
     font-weight: bold;
+}
+.footer li{
+    display:inline-block;
+    padding:5px 10px;
 }
 
 
