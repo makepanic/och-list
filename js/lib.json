@@ -1,0 +1,26 @@
+[
+{
+    "url": "//rapidshare.com/",
+    "name": "RapidShare",
+    "free": true,
+    "down": "14KB/s",
+    "multi": false,
+    "timed": ""
+},
+{
+    "url": "//www.putlocker.com",
+    "name": "PutLocker",
+    "free": true,
+    "down": "+1MB/s",
+    "multi": false,
+    "timed": ""
+},
+{
+    "url": "//www.zippyshare.com/",
+    "name": "zippyshare"
+},
+{
+    "url": "//uploaded.net",
+    "name": "uploaded"
+}
+]
