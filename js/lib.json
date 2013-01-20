@@ -23,5 +23,11 @@
     "url":"//www.sockshare.com",
     "name":"SockShare",
     "free":true
+},
+{
+    "url":"//ultramegabit.com/",
+    "name":"ultramegabit",
+    "free":true,
+    "down":"~153KB/s"
 }
 ]
