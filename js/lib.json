@@ -29,5 +29,11 @@
     "name":"ultramegabit",
     "free":true,
     "down":"~153KB/s"
+},
+{
+    "url":"https://fileparadox.in/",
+    "name":"FileParadox",
+    "free":true,
+    "down":"125KB/s"
 }
 ]
