@@ -31,9 +31,15 @@
     "down":"~153KB/s"
 },
 {
-    "url":"https://fileparadox.in/",
+    "url":"//fileparadox.in/",
     "name":"FileParadox",
     "free":true,
     "down":"125KB/s"
+},
+{
+    "url":"//billionuploads.com/",
+    "name":"Billion Uploads",
+    "free":true,
+    "down": "+1MB/s"
 }
 ]
