@@ -41,5 +41,11 @@
     "name":"Billion Uploads",
     "free":true,
     "down": "+1MB/s"
+},
+{
+    "url":"//filezy.net/",
+    "name":"Filezy",
+    "free":true,
+    "down": "~120KB/s"
 }
 ]
